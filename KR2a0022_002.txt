@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:20:41.614318
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR2a0022_WYG_002-1a>¶
 欽定四庫全書¶
 　周書卷二¶
@@ -362,6 +364,7 @@
 　¶
 　¶
 　周書卷二¶
+#+PROPERTY: JUAN 卷二考證
 <pb:KR2a0022_WYG_002-21a>¶
 　周書卷二考證¶
 文帝紀下魏大統元年○通鑑有五月魏加丞相泰柱¶
@@ -380,4 +383,3 @@
 　¶
 　¶
 　周書卷二考證¶
-

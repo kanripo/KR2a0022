@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:20:41.701350
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR2a0022_WYG_007-1a>¶
 欽定四庫全書¶
 　周書卷七¶
@@ -272,6 +274,7 @@
 　¶
 　¶
 　周書卷七¶
+#+PROPERTY: JUAN 卷七考證
 <pb:KR2a0022_WYG_007-16a>¶
 　周書卷七考證¶
 宣帝紀癸夘封皇子衍為魯王○衍通鑑作闡(臣文淳/)¶
@@ -290,4 +293,3 @@
 　¶
 　¶
 　周書卷七考證¶
-

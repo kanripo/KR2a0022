@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:20:41.721775
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR2a0022_WYG_008-1a>¶
 欽定四庫全書¶
 　周書卷八¶
@@ -146,6 +148,7 @@
 　¶
 　¶
 　周書卷八¶
+#+PROPERTY: JUAN 卷八考證
 <pb:KR2a0022_WYG_008-9a>¶
 　周書卷八考證¶
 靜帝紀封皇弟術為鄴王衎為郢王○按通鑑周主封¶
@@ -164,4 +167,3 @@
 　¶
 　¶
 　周書卷八考證¶
-

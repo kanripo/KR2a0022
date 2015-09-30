@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 22:20:41.916909
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九
 <pb:KR2a0022_WYG_019-1a>¶
 欽定四庫全書¶
 　周書卷十九¶
@@ -434,6 +436,7 @@
 　¶
 　¶
 　周書卷十九¶
+#+PROPERTY: JUAN 卷十九考證
 <pb:KR2a0022_WYG_019-25a>¶
 　周書卷十九考證¶
 逹奚武傳加散騎常侍進爵為公○北史無進爵為公¶
@@ -452,4 +455,3 @@
 　¶
 　¶
 　周書卷十九考證¶
-

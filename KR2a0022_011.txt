@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:20:41.785533
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR2a0022_WYG_011-1a>¶
 欽定四庫全書¶
 　周書卷十一¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　周書卷十一¶
+#+PROPERTY: JUAN 卷十一考證
 <pb:KR2a0022_WYG_011-24a>¶
 　周書卷十一考證¶
 晉蕩公䕶𫝊侯伏龍恩萬夀劉勇等○上文云并柱國¶
@@ -434,4 +437,3 @@
 　¶
 　¶
 　周書卷十一考證¶
-

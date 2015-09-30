@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 31
+#+DATE: 2015-08-24 22:20:42.164542
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十一
 <pb:KR2a0022_WYG_031-1a>¶
 欽定四庫全書¶
 　周書卷三十一¶
@@ -308,6 +310,7 @@
 　¶
 　¶
 　周書卷三十一¶
+#+PROPERTY: JUAN 卷三十一考證
 <pb:KR2a0022_WYG_031-18a>¶
 　周書卷三十一考證¶
 韋孝寛傳時獨孤信為新野郡守司荆州○北史云同¶
@@ -326,4 +329,3 @@
 　¶
 　¶
 　周書卷三十一考證¶
-

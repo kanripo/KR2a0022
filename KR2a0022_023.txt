@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 23
+#+DATE: 2015-08-24 22:20:42.007326
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十三
 <pb:KR2a0022_WYG_023-1a>¶
 欽定四庫全書¶
 　周書卷二十三¶
@@ -344,6 +346,7 @@
 　¶
 　¶
 　周書卷二十三¶
+#+PROPERTY: JUAN 卷二十三考證
 <pb:KR2a0022_WYG_023-20a>¶
 　周書卷二十三考證¶
 蘇綽傅柱國泰洎羣公列將罔不來朝○柱國泰諸本¶
@@ -362,4 +365,3 @@
 　¶
 　¶
 　周書卷二十三考證¶
-

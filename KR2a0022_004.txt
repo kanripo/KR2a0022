@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:20:41.640159
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR2a0022_WYG_004-1a>¶
 欽定四庫全書¶
 　周書卷四¶
@@ -182,6 +184,7 @@
 　¶
 　¶
 　周書卷四¶
+#+PROPERTY: JUAN 卷四考證
 <pb:KR2a0022_WYG_004-11a>¶
 　周書卷四考證¶
 明帝紀以大將軍楊忠大將軍王雄並為柱國○諸本¶
@@ -200,4 +203,3 @@
 　¶
 　¶
 　周書卷四考證¶
-

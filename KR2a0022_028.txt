@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 28
+#+DATE: 2015-08-24 22:20:42.107700
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十八
 <pb:KR2a0022_WYG_028-1a>¶
 欽定四庫全書¶
 　周書卷二十八¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　周書卷二十八¶
+#+PROPERTY: JUAN 卷二十八考證
 <pb:KR2a0022_WYG_028-24a>¶
 　周書卷二十八考證¶
 史寕𫝊遂至樹敦敦是渾之舊都○北史云樹敦是渾¶
@@ -434,4 +437,3 @@
 　¶
 　¶
 　周書卷二十八考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 42
+#+DATE: 2015-08-24 22:20:42.381218
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十二
 <pb:KR2a0022_WYG_042-1a>¶
 欽定四庫全書¶
 　周書卷四十二¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　周書卷四十二¶
+#+PROPERTY: JUAN 卷四十二考證
 <pb:KR2a0022_WYG_042-24a>¶
 　周書卷四十二考證¶
 宗懍傳梁普通六年○普通北史作大同¶
@@ -434,4 +437,3 @@
 　¶
 　¶
 　周書卷四十二考證¶
-

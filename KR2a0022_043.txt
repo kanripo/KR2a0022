@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 43
+#+DATE: 2015-08-24 22:20:42.396824
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十三
 <pb:KR2a0022_WYG_043-1a>¶
 欽定四庫全書¶
 　周書卷四十三¶
@@ -200,6 +202,7 @@
 　¶
 　¶
 　周書卷四十三¶
+#+PROPERTY: JUAN 卷四十三考證
 <pb:KR2a0022_WYG_043-12a>¶
 　周書卷四十三考證¶
 陳忻傳及獨孤信入洛忻舉李延孫為前&KR0289;○舉疑當¶
@@ -218,4 +221,3 @@
 　¶
 　¶
 　周書卷四十三考證¶
-

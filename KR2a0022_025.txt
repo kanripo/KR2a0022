@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 25
+#+DATE: 2015-08-24 22:20:42.056634
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十五
 <pb:KR2a0022_WYG_025-1a>¶
 欽定四庫全書¶
 　周書卷二十五¶
@@ -290,6 +292,7 @@
 　¶
 　¶
 　周書卷二十五¶
+#+PROPERTY: JUAN 卷二十五考證
 <pb:KR2a0022_WYG_025-17a>¶
 　周書卷二十五考證¶
 李賢傳吉弟崇崇弟孝軌孝軌弟詢○北史云吉弟孝¶
@@ -308,4 +311,3 @@
 　¶
 　¶
 　周書卷二十五考證¶
-

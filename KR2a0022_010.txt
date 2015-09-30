@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:20:41.759215
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR2a0022_WYG_010-1a>¶
 欽定四庫全書¶
 　周書卷十¶
@@ -200,6 +202,7 @@
 　¶
 　¶
 　周書卷十¶
+#+PROPERTY: JUAN 卷十考證
 <pb:KR2a0022_WYG_010-12a>¶
 　周書卷十考證¶
 邵恵公顥子導𫝊導治兵訓卒得守捍之方○舊本俱¶
@@ -218,4 +221,3 @@
 　¶
 　¶
 　周書卷十考證¶
-

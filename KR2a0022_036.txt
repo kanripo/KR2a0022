@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 36
+#+DATE: 2015-08-24 22:20:42.280725
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十六
 <pb:KR2a0022_WYG_036-1a>¶
 欽定四庫全書¶
 　周書卷三十六¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　周書卷三十六¶
+#+PROPERTY: JUAN 卷三十六考證
 <pb:KR2a0022_WYG_036-24a>¶
 　周書卷三十六考證¶
 王士良傳復士良爲尚書左丞○北史復以士良爲尚¶
@@ -434,4 +437,3 @@
 　¶
 　¶
 　周書卷三十六考證¶
-

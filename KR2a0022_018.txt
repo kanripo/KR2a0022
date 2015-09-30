@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:20:41.904954
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR2a0022_WYG_018-1a>¶
 欽定四庫全書¶
 　周書卷十八¶
@@ -164,6 +166,7 @@
 高風亦足奮於百世矣¶
 　¶
 　周書卷十八¶
+#+PROPERTY: JUAN 卷十八考證
 <pb:KR2a0022_WYG_018-10a>¶
 　周書卷十八考證¶
 王羆𫝊乃令羆領羽林五千鎭梁州○北史作乃拜羆¶
@@ -200,4 +203,3 @@
 　¶
 　¶
 　周書卷十八考證¶
-

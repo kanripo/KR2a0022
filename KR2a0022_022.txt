@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 22
+#+DATE: 2015-08-24 22:20:41.990514
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十二
 <pb:KR2a0022_WYG_022-1a>¶
 欽定四庫全書¶
 　周書卷二十二¶
@@ -344,6 +346,7 @@
 　¶
 　¶
 　周書卷二十二¶
+#+PROPERTY: JUAN 卷二十二考證
 <pb:KR2a0022_WYG_022-20a>¶
 　周書卷二十二考證¶
 揚寛𫝊子紀嗣○北史作子文紀嗣¶
@@ -362,4 +365,3 @@
 　¶
 　¶
 　周書卷二十二考證¶
-

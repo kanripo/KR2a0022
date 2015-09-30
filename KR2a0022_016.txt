@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:20:41.879639
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR2a0022_WYG_016-1a>¶
 欽定四庫全書¶
 　周書卷十六¶
@@ -308,6 +310,7 @@
 　¶
 　¶
 　周書卷十六¶
+#+PROPERTY: JUAN 卷十六考證
 <pb:KR2a0022_WYG_016-18a>¶
 　周書卷十六考證¶
 趙貴傳趙貴字元貴○北史作字元寳¶
@@ -326,4 +329,3 @@
 　¶
 　¶
 　周書卷十六考證¶
-

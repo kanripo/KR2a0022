@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 51
+#+DATE: 2015-08-24 22:20:42.547876
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN [考證跋語]
 <pb:KR2a0022_WYG_051-1a>¶
 　　　編脩今授奉天錦州府知府(臣/)文淳謹言北周¶
 　　　書五十卷本紀列𫝊四十二唐秘書丞令狐徳¶
@@ -25,4 +27,3 @@
 　　　書不同未便𥙷入故字有不同從其是者文之¶
 　　　遺脫祗加詳注不&KR0301;参入以附於闕文之義云¶
 　　　(臣/)謹識¶
-

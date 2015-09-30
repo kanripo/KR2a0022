@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周書
-#+DATE: 2015-09-23 09:41:54
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:20:41.734378
+#+PROPERTY: ID KR2a0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR2a0022_WYG_009-1a>¶
 欽定四庫全書¶
 　周書卷九¶
@@ -200,6 +202,7 @@
 　¶
 　¶
 　周書卷九¶
+#+PROPERTY: JUAN 卷九考證
 <pb:KR2a0022_WYG_009-12a>¶
 　周書卷九考證¶
 宣帝楊皇后𫝊尋又立為天中太皇后○(臣文淳/)按天¶
@@ -218,4 +221,3 @@
 　¶
 　¶
 　周書卷九考證¶
-
